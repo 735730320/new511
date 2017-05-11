@@ -1,0 +1,8 @@
+远程仓库链接
+
+首先需要一个github账号
+
+创建一个ssh key（密钥）
+ssh-keygen  -t rsa –C "邮箱"
+
+
